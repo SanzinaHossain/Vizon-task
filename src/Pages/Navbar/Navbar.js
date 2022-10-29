@@ -3,7 +3,7 @@ import logo from "../../images/Logo.jpg";
 import "./Navbar.css";
 const Navbar = () => {
   return (
-    <div className="navbar Navbar w-screen">
+    <div className="navbar Navbar">
       <div className="navbar-start">
         <img className="image-size normal-case text-xl" src={logo}></img>
       </div>
