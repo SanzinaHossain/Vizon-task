@@ -1,0 +1,26 @@
+.Navbar {
+  background-color: black;
+  padding-right: 10px;
+}
+/* Navbar List Design for large screen */
+.navbar-menu-large {
+  margin-right: 25px;
+  color: white;
+  font-size: 25px;
+}
+.navbar-menu-large:hover {
+  color: orangered;
+}
+/* Navbar List Design for small screen*/
+.navbar-menu-small {
+  color: white;
+  font-size: 30px;
+}
+.navbar-menu-small:hover {
+  color: orangered;
+}
+/* Logo Image size */
+.image-size {
+  height: 70px;
+  width: 150px;
+}
